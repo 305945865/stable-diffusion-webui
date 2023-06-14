@@ -1,4 +1,6 @@
 # Stable Diffusion web UI
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F305945865%2Fstable-diffusion-webui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F305945865%2Fstable-diffusion-webui?ref=badge_shield)
+
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
@@ -167,3 +169,7 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - TAESD - Ollin Boer Bohan - https://github.com/madebyollin/taesd
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F305945865%2Fstable-diffusion-webui.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F305945865%2Fstable-diffusion-webui?ref=badge_large)
